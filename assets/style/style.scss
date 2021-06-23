@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Odibee";
-    src: url("./assets/font/OdibeeSans-Regular.ttf") format("truetype");
+    src: url("../font/OdibeeSans-Regular.ttf") format("truetype");
 }
 * {
     margin: 0;
@@ -39,12 +39,12 @@ body {
     .background {
         width: 50vw;
         height: 100vh;
-        background-image: url('./assets/img/background-md.jpg');
+        background-image: url('../img/background-md.jpg');
         background-position-x: 35%;
         position: fixed;
         z-index: 1;
         @include md {
-            background-image: url('./assets/img/background.jpg');
+            background-image: url('../img/background.jpg');
             background-position-x: 25%;
         }
     }
