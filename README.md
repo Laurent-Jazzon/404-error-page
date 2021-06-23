@@ -2,7 +2,7 @@
 
 ## The web page
 
-[Check it here !](https://laurent-jazzon.github.io/Woods-404-page/)
+[Check it here !](https://laurent-jazzon.github.io/404-error-page/)
 
 ## Objective
 
